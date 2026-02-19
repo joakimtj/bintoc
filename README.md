@@ -1,4 +1,4 @@
-Highly scalable, customizable binary representation to character conversion cli tool written in C.
+Highly scalable, customizable binary representation to ascii character conversion cli tool written in C.
 
 Compile and run:
 ```
